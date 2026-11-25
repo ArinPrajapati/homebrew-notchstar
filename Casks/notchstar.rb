@@ -1,6 +1,6 @@
 cask "notchstar" do
-  version "1.1.0"
-  sha256 "96e36d429c1a992c621fa8ce8f89f869f6df907b38623196ca6744b41485c48e"
+  version "1.2.0"
+  sha256 "2fda4174c3a7d5ccfa1470b7beeaa113ee27aa7bb2265c75d4bc84719b2265ad"
 
   url "https://github.com/ArinPrajapati/notchstar-feedback/releases/download/v#{version}/NotchStar-#{version}.dmg"
   name "NotchStar"
